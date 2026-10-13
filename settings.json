@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "10MECH.aternos.me:38286",
+    "port": 38286,
     "version": "",
     "try-creative": false
   },
